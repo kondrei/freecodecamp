@@ -9,3 +9,4 @@ function findLongestWordLength(str) {
 }
 
 findLongestWordLength("What if we try a super-long word such as otorhinolaryngology");
+
